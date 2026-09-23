@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/devan/Downloads/Coding/ELEC271_LAB2
+vmux4
+Z1 !s110 1790202558
+!i10b 1
+!s100 V^Z382UC_lB<<Dd^_QIhk3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ii19z@Y4HKmzi_Hi5jX:LB0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1790200092
+8lab2_mux.v
+Flab2_mux.v
+!i122 4
+L0 1 15
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1790202558.000000
+!s107 lab2_mux_tb.v|lab2_mux.v|
+Z6 !s90 -reportprogress|300|lab2_mux.v|lab2_mux_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vmux4_tb
+R1
+!i10b 1
+!s100 4@kIX738UGU:GkDL]S2^K1
+R2
+IN?Kif>DmaSb@Tc;;ZJOGE0
+R3
+R0
+w1790200763
+8lab2_mux_tb.v
+Flab2_mux_tb.v
+!i122 4
+L0 1 17
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 lab2_mux_tb.v|lab2_mux.v|
+R6
+!i113 1
+R7
